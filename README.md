@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Max</h1>
 <h3 align="center">A passionate backend developer from Bordeaux, France</h3>
 <p>
-  After spending 8 years in purchasing positions I recently underwent a career transition to pursue the Web Developer program at Le Wagon Bordeaux, using the following technologies. ⚡
+  👨‍💻 After spending 8 years in purchasing positions I recently underwent a career transition to pursue the Web Developer program at Le Wagon Bordeaux, using the following technologies. 
   <ul>
     <li>Ruby on Rails</li>
     <li>JavaScript</li>
