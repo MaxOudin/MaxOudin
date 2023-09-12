@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Max</h1>
 <h3 align="center">A passionate backend developer from Bordeaux, France</h3>
 <p>
-  After spending 8 years in purchasing positions I recently underwent a career transition to pursue the Web Developer program at Le Wagon Bordeaux, using the following technologies. 
+  ⚡ After spending 8 years in purchasing positions I recently underwent a career transition to pursue the Web Developer program at Le Wagon Bordeaux, using the following technologies. ⚡
   <ul>
     <li>Ruby on Rails</li>
     <li>JavaScript</li>
@@ -13,9 +13,9 @@
     <li>Heroku</li>
   </ul>
 
-My goal is to become a confirmed web developer, primarily focused on back-end development. This career shift reflects my passion for programming and my eagerness to thrive in a constantly evolving field. 
+🔭 My goal is to become a confirmed web developer, primarily focused on back-end development. This career shift reflects my passion for programming and my eagerness to thrive in a constantly evolving field. 
 
-I am an adaptable professional with a strong background in management and analysis, and I firmly believe that my transition into web development will allow me to combine my passion for technology with my expertise in management to make a significant contribution to innovative web projects.
+🛠 I am an adaptable professional with a strong background in management and analysis, and I firmly believe that my transition into web development will allow me to combine my passion for technology with my expertise in management to make a significant contribution to innovative web projects.
 </p>
 
 <h3 align="left">
@@ -23,7 +23,7 @@ I am an adaptable professional with a strong background in management and analys
 <p align="left">
 👉 <a href="https://linkedin.com/in/maxime-oudin-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime-oudin-developer" height="30" width="40" /></a>
 </p>
-<p>Or feel free to contact me via email: oudinmaxime@gmail.com</p>
+<p>Or feel free to contact me via email 📨 oudinmaxime@gmail.com</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
