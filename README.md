@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Max</h1>
 <h3 align="center">A passionate Back-end Developer from Bordeaux, France</h3>
-<p>
-  👨‍💻 After spending 8 years in purchasing positions I recently underwent a career transition to pursue the Web Developer program at Le Wagon Bordeaux, using the following technologies. 
+<p> 🔭 My goal is to become a confirmed web developer, primarily focused on back-end development. This career shift reflects my passion for programming and my eagerness to thrive in a constantly evolving field. </p>
+<p>👨‍💻 After spending 8 years in purchasing positions I recently underwent a career transition to pursue the Web Developer program at Le Wagon Bordeaux, using the following technologies. </p>
   <ul>
     <li>Ruby on Rails</li>
     <li>JavaScript</li>
@@ -14,7 +14,6 @@
     <li>API</li>
   </ul>
 
-🔭 My goal is to become a confirmed web developer, primarily focused on back-end development. This career shift reflects my passion for programming and my eagerness to thrive in a constantly evolving field. 
 
 🛠 I am an adaptable professional with a strong background in management and analysis, and I firmly believe that my transition into web development will allow me to combine my passion for technology with my expertise in management to make a significant contribution to innovative web projects.
 </p>
