@@ -23,7 +23,7 @@
 <p align="left">
  <a href="https://linkedin.com/in/maxime-oudin-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime-oudin-developer" height="30" width="40" /></a>
 </p>
-<p>Or feel free to contact me via email 📨 <strong> oudinmaxime@gmail.com </strong></p>
+<p>Or feel free to contact me via email 📨 <strong> contact@maximeoudin.fr </strong></p>
 
 <h3 align="left">🌐 Languages and Tools:</h3>
 <p align="left"> 
