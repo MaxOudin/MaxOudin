@@ -1,22 +1,17 @@
-<h1 align="center">Hi 👋 I'm Max</h1>
+<h1 align="center">Welcome 👋 I'm Max</h1>
 <h3 align="center">A passionate Full Stack Developer from Bordeaux, France</h3>
-<p> 🔭 My goal is to become a confirmed web developer, primarily focused on back-end development. This career shift reflects my passion for programming and my eagerness to thrive in a constantly evolving field. </p>
-<p>👨‍💻 After spending 8 years in purchasing positions I recently underwent a career transition to pursue the Web Developer program at Le Wagon Bordeaux, using the following technologies. </p>
+<p> 👨‍💻 After spending 8 years in purchasing positions, I have started in 2023 a career transition in wbe development, using the following technologies. </p>
   <ul>
     <li>Ruby on Rails</li>
     <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>Nuxt3 Vue.js</li>
+    <li>HTML & CSS</li>
     <li>SQL</li>
     <li>Github</li>
     <li>Git</li>
     <li>Heroku</li>
-    <li>API</li>
+    <li>APIs</li>
   </ul>
-
-
-🛠 I am an adaptable professional with a strong background in management and analysis, and I firmly believe that my transition into web development will allow me to combine my passion for technology with my expertise in management to make a significant contribution to innovative web projects.
-</p>
 
 <h3 align="left">
  👉 Connect with me</h3>
