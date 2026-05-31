@@ -1,16 +1,12 @@
 <h1 align="center">Welcome 👋 I'm Max</h1>
 <h3 align="center">A passionate Full Stack Developer from Bordeaux, France</h3>
-<p> 👨‍💻 After spending 8 years in purchasing positions, I have started in 2023 a career transition in wbe development, using the following technologies. </p>
+<p> 👨‍💻 After spending 8 years in purchasing positions, I have started in 2023 a career transition in web development, using the following technologies. </p>
   <ul>
     <li>Ruby on Rails</li>
     <li>JavaScript</li>
-    <li>Nuxt3 Vue.js</li>
     <li>HTML & CSS</li>
     <li>SQL</li>
-    <li>Github</li>
     <li>Git</li>
-    <li>Heroku</li>
-    <li>APIs</li>
   </ul>
 
 <h3 align="left">
